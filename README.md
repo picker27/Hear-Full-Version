@@ -243,4 +243,4 @@ This repository serves as the official landing page for Hear. The software is di
 **Get the most recent version of Hear today!**
 
 ---
-**Last updated:** 2026-10-28 20:56:25 UTC
+**Last updated:** 2026-10-29 00:46:20 UTC
